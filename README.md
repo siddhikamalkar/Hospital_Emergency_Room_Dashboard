@@ -6,7 +6,7 @@ This project is an interactive dashboard created in Excel to analyze and visuali
 
 The dashboard serves as a portfolio project for data analysts, showcasing skills in data cleaning, modeling, and visualization.
 
-# Key Features
+### Key Features
 Patient Metrics: Displays the number of patients visiting the emergency room daily and monthly.
 
 Wait Time Analysis: Tracks the average wait time for patients to be seen by a medical professional.
@@ -15,7 +15,7 @@ Patient Satisfaction: Visualizes patient satisfaction scores to gauge the qualit
 
 Data-driven Insights: Provides a comprehensive overview of emergency room performance at a glance.
 
-# Technologies Used
+### Technologies Used
 Microsoft Excel: The primary tool used for the project.
 
 Power Query: Used for data cleaning and transformation of the raw CSV file.
@@ -26,7 +26,7 @@ Pivot Table: Utilized to create the necessary summaries and reports for the dash
 
 DAX Formulas: Employed for creating custom measures and calculations.
 
-# Project Files
+### Project Files
 This project includes the raw data in a CSV file (Hospital Emergency Room Data.csv) which was used to create the dashboard.
 
 
